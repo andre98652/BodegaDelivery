@@ -3,6 +3,7 @@
 **Bodega Delivery App** es una aplicación Android que simula la gestión básica de una tienda o bodega, permitiendo administrar clientes, productos, categorías, pedidos y el detalle de los mismos.
 
 Desarrollada como parte de un proyecto académico, la app implementa una base de datos relacional usando **Room** (Jetpack) y una interfaz moderna usando **Jetpack Compose**.
+
 ---
 
 ## 👥 Integrantes del Equipo
