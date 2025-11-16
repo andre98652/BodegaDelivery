@@ -7,8 +7,6 @@ Desarrollada como parte de un proyecto académico, la app implementa una base de
 
 ## 👥 Integrantes del Equipo
 
-Este proyecto fue desarrollado por los siguientes estudiantes:
-
 - **Delgado Allpan, Andree David**
 - **Gordillo Mendoza, Jose Alonzo**
 - **Escobedo Ocaña, Jorge Luis**
